@@ -1,4 +1,4 @@
-{"spider":"./jar/custom_spider.jar",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
  "sites":[
  {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/drpy.js"},
  {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/荐片.js"},
@@ -22,7 +22,7 @@
 {"key":"drpy_js_人人","name":"影视 | 人人[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/人人.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/ddys.js"},
 {"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/农民影视.js"},
-{"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/大豆.js"},
+{"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/大豆.js"}，
 {"key":"drpy_js_九酷","name":"影视 | 九酷[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/九酷.js"},
 {"key":"drpy_js_l0l","name":"影视 | l0l[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/l0l.js"},
 {"key":"drpy_js_网飞.TV","name":"影视 | 网飞.TV[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/网飞.TV.js"},
